@@ -11,7 +11,7 @@ project information
 
 
 installation and configuration
-------------------------------
+-------------------------------
 
  
  Simply copy (clone the repository) and see and read it.
